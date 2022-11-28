@@ -17,7 +17,8 @@
 
 ## Homework-3
 Составить чек-лист на главную страницу:
-https://demo.guru99.com/telecom/index.html\
+https://demo.guru99.com/telecom/index.html
+\
 <b>Результат выполнения задания:</b>\
 [Homework-3](https://github.com/JosieVi/Checklists/blob/main/Homework-3.pdf)\
 [Или Google Диск](https://docs.google.com/spreadsheets/d/18OX-cD6kwX9pq_J-IxspmPUtVl6lQsJxb3jfyMwtG2E/edit?usp=sharing)
