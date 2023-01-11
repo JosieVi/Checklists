@@ -25,4 +25,4 @@ https://demo.guru99.com/telecom/index.html
 \
 <b>Результат выполнения задания:</b>\
 [Homework-4](https://github.com/JosieVi/Checklists/blob/main/Homework-4.pdf)
-или [Google Диск](https://docs.google.com/spreadsheets/d/1MRWVmiH0OAUeyaXEkjZludw0q_QOo78_cI-TAtyx3ZQ/edit?usp=sharing)
+или [Google Диск](https://docs.google.com/spreadsheets/d/1MRWVmiH0OAUeyaXEkjZludw0q_QOo78_cI-TAtyx3ZQ/edit#gid=359734952)
