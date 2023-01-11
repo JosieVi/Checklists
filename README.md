@@ -20,9 +20,7 @@ https://demo.guru99.com/telecom/index.html
 или [Google Диск](https://docs.google.com/spreadsheets/d/18OX-cD6kwX9pq_J-IxspmPUtVl6lQsJxb3jfyMwtG2E/edit?usp=sharing)
 
 ## Homework-4
-Составить чек-лист на тестирование корзины и модуля оплаты:
-http://demowebshop.tricentis.com
-\
+Протестировать модуль корзины и модуль оплаты http://demowebshop.tricentis.com: составить чек-лист; оформить баг-репорты.\
 Для оплаты используйте метод Credit card. Тестовые карты можно найти здесь https://docs.assist.ru/pages/viewpage.action?pageId=5767473												
 \
 <b>Результат выполнения задания:</b>\
